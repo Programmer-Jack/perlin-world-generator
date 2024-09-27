@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WorldGenDefault
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: e595883ffa41adb42baf7943729dd48c,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _width
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _height
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _xOrigin
+    value: 26.846577
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _yOrigin
+    value: -45.73319
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _xOffsetVariance.x
+    value: -0.01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _xOffsetVariance.y
+    value: 0.01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _yOffsetVariance.x
+    value: -0.01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _yOffsetVariance.y
+    value: 0.01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _scale
+    value: 2.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _thresholdMultiplier
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _blockContainerPrefab
+    value: 
+    objectReference: {fileID: 110348603087346138, guid: bba4217a4dace5440b98a4d86f65054e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _grass
+    value: 
+    objectReference: {fileID: 8729156022296776292, guid: 5031fb2517019e246b18f38a1f3f192e,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _stone
+    value: 
+    objectReference: {fileID: 6814258386182120901, guid: cd20e81d2e59df540aa212aac8f420cb,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _gold
+    value: 
+    objectReference: {fileID: 6814258386182120901, guid: 7a3beb24ba79cfa48b55de6961ae0708,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _dirt
+    value: 
+    objectReference: {fileID: 8729156022296776292, guid: 90caa796982df694691feeaf7f7a0ea2,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _water
+    value: 
+    objectReference: {fileID: 8729156022296776292, guid: 7157ce29ceaaf1040b19ac848c5bbf33,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _sand
+    value: 
+    objectReference: {fileID: 8729156022296776292, guid: ae83f8f69dd79d94d8ed4242cb472c05,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: _beachSize
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _seaLevel
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _lastDirtChance
+    value: 33
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _goldHeightLimit
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _goldChance
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _extendedGoldChance
+    value: 15
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
